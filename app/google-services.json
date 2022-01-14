@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191515595315",
+    "project_id": "timecard-7575b",
+    "storage_bucket": "timecard-7575b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191515595315:android:c27a18439e2efde4c08946",
+        "android_client_info": {
+          "package_name": "com.example.timecard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191515595315-g78soef5itj301vhrn0qv32ht06fsqcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGw616ZrYF6_Y-Zj-CPOVXQHU6RCf82UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191515595315-g78soef5itj301vhrn0qv32ht06fsqcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
